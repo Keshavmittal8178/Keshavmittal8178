@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Keshavmittal8178/Keshavmittal8178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,4 +38,3 @@ Generate complete ready-to-paste README.md code with a premium developer portfol
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
